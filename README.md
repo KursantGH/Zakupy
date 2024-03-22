@@ -1,3 +1,3 @@
 # Paragon zakupy
 Kto jest najlepszym commiterem?
-User1
+User2
