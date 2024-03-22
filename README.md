@@ -1,1 +1,1 @@
-# Zakupy
+# Paragon zakupy
